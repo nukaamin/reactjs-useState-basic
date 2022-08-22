@@ -1,0 +1,10 @@
+ul > li {
+    border: 3px solid rgb(236, 222, 14);
+    background-color: rgb(240, 190, 220);
+    margin: 10px;
+    padding: 5px;
+    text-transform: capitalize;
+    border-radius: 8px;
+    font-size: 24px;
+    font-weight: 400;
+}

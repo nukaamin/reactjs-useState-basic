@@ -1,0 +1,17 @@
+.form-create {
+    text-align: center;
+    margin: 1rem;
+    padding: .5rem;
+    font-size: 2rem;
+    font-weight: bold;
+    border-radius: 20px;
+    background-color: blanchedalmond;
+}
+.button-submit {
+    padding: .5rem;
+    font-size: 2rem;
+    background-color: pink;
+    color: black;
+    text-transform: uppercase;
+    border-radius: 20px;
+}

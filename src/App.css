@@ -1,0 +1,15 @@
+.App {
+  
+}
+.content {
+  margin: 0 auto;
+  text-align: center;
+  width: 50%;
+}
+.image-footer {
+  max-width: 100%;
+  height: auto;
+  position: absolute;
+  bottom: 0;
+  z-index: -1;
+}
